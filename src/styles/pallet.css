@@ -1,0 +1,53 @@
+.colors{
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.navbar-brand{
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-right: 3%;
+    padding: 0%;
+}
+
+.form-range{
+    width: 30%;
+    padding-top: 1%;
+}
+
+.levelLable{
+    font-size: 1.2rem;
+    margin-right: 1.5rem;
+}
+
+.goBack{
+    display: inline-block;
+    height: 50%;
+    width: 20%;
+    position: relative;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-bottom: -6px;
+    background-color: black;
+}
+
+
+.backBtn{
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    margin-top: -20px;
+    margin-left: -75px;
+    text-align: center;
+    outline: none;
+    font-size: 1rem;
+    background: black;
+    line-height: 30px;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid white;
+}
